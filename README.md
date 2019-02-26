@@ -4,6 +4,7 @@ The Voyager-1 Mission dictionary contains classes that describe attributes of th
 ## Versions
 
 - [1.0.0.0](src/1.0.0.0)
+- [1.0.0.1](src/1.0.0.1)
 
 ## Builds
 
